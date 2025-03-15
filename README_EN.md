@@ -1,6 +1,6 @@
 # WeChat Multi-Instance Launcher
 
-A simple tool to help you run multiple WeChat instances simultaneously on Windows.
+Created by Cursor, a simple tool to help you run multiple WeChat instances simultaneously on Windows.
 
 English | [简体中文](README.md)
 
