@@ -1,6 +1,6 @@
 # 微信多开助手 (WeChat Multi-Instance Launcher)
 
-一个简单的微信多开工具，可以帮助你在Windows系统上同时运行多个微信实例。
+由Cursor生成制作的一个简单的微信多开工具，可以帮助你在Windows系统上同时运行多个微信实例。
 
 [English](README_EN.md) | 简体中文
 
@@ -19,12 +19,7 @@
 
 ## 安装方法
 
-### 方法1：直接使用
-
-1. 从 [Releases](../../releases) 页面下载最新的可执行文件
-2. 双击运行 `WeChatLauncher.exe`
-
-### 方法2：从源码运行
+### 方法1：从源码运行
 
 1. 克隆仓库：
 ```bash
@@ -42,7 +37,7 @@ pip install -r requirements.txt
 python wechat_multi_launcher.py
 ```
 
-### 方法3：自行打包
+### 方法2：自行打包
 
 1. 安装依赖：
 ```bash
