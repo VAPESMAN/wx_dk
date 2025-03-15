@@ -19,12 +19,7 @@ English | [简体中文](README.md)
 
 ## Installation
 
-### Method 1: Direct Use
-
-1. Download the latest executable from [Releases](../../releases)
-2. Double-click `WeChatLauncher.exe` to run
-
-### Method 2: Run from Source
+### Method 1: Run from Source
 
 1. Clone the repository:
 ```bash
@@ -42,7 +37,7 @@ pip install -r requirements.txt
 python wechat_multi_launcher.py
 ```
 
-### Method 3: Build from Source
+### Method 2: Build from Source
 
 1. Install dependencies:
 ```bash
