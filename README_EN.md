@@ -14,7 +14,8 @@ English | [简体中文](README.md)
 
 ## Screenshots
 
-[Screenshots to be added]
+![image](https://github.com/user-attachments/assets/2010bdfb-ecd6-4d6b-9895-59e9ef875056)
+
 
 ## Installation
 
