@@ -14,7 +14,8 @@
 
 ## 截图
 
-[待添加截图]
+![image](https://github.com/user-attachments/assets/44d93c11-ed97-4f3a-b47e-f93b3c91a51e)
+
 
 ## 安装方法
 
